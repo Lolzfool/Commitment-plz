@@ -1,0 +1,13 @@
+body {
+	background-color:pink;
+}	
+p {
+	color:red
+}
+p#yolo {
+	color:orange;
+}
+
+p.egg {
+	color:yellow;
+}
